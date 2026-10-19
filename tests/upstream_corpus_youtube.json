@@ -1,0 +1,951 @@
+[
+ {
+  "hook": "Why do your videos die at 30 seconds when the topic is fine?",
+  "properties": {
+   "SPECIFICITY": 56,
+   "ADDRESS": 76,
+   "STAKES": 62,
+   "CURIOSITY": 59,
+   "BREVITY": 100
+  },
+  "verdict": 65,
+  "band": "WORKABLE",
+  "formula": "The Question"
+ },
+ {
+  "hook": "Your first 30 seconds are why nobody finishes your videos. It is not the topic.",
+  "properties": {
+   "SPECIFICITY": 62,
+   "ADDRESS": 96,
+   "STAKES": 36,
+   "CURIOSITY": 58,
+   "BREVITY": 100
+  },
+  "verdict": 57,
+  "band": "WORKABLE",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "97% of the people who start a channel quit before video 30. Here is what the other 3% do differently.",
+  "properties": {
+   "SPECIFICITY": 96,
+   "ADDRESS": 26,
+   "STAKES": 88,
+   "CURIOSITY": 58,
+   "BREVITY": 100
+  },
+  "verdict": 55,
+  "band": "WORKABLE",
+  "formula": "The Statistic"
+ },
+ {
+  "hook": "Nobody tells you that your first 30 reels are supposed to flop.",
+  "properties": {
+   "SPECIFICITY": 56,
+   "ADDRESS": 96,
+   "STAKES": 36,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 54,
+  "band": "WEAK",
+  "formula": "Contrarian Flip"
+ },
+ {
+  "hook": "BEFORE YOU POST AGAIN",
+  "properties": {
+   "SPECIFICITY": 52,
+   "ADDRESS": 76,
+   "STAKES": 48,
+   "CURIOSITY": 41,
+   "BREVITY": 45
+  },
+  "verdict": 48,
+  "band": "WEAK",
+  "formula": "The Warning"
+ },
+ {
+  "hook": "YouTube tells you which videos are underperforming. Almost nobody opens the report.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 76,
+   "STAKES": 22,
+   "CURIOSITY": 75,
+   "BREVITY": 100
+  },
+  "verdict": 46,
+  "band": "WEAK",
+  "formula": "The Insider"
+ },
+ {
+  "hook": "$18,000 is what one missing clause cost me.",
+  "properties": {
+   "SPECIFICITY": 56,
+   "ADDRESS": 26,
+   "STAKES": 62,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 45,
+  "band": "WEAK",
+  "formula": "The Statistic"
+ },
+ {
+  "hook": "If your reels get views and no followers, the next 40 seconds fix it.",
+  "properties": {
+   "SPECIFICITY": 56,
+   "ADDRESS": 76,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 45,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "My first 47 reels averaged 300 views. Number 48 did 400,000. One thing was different.",
+  "properties": {
+   "SPECIFICITY": 100,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 44,
+  "band": "WEAK",
+  "formula": "The Statistic"
+ },
+ {
+  "hook": "I posted one reel a day for 60 days. Here is what it did to my DMs.",
+  "properties": {
+   "SPECIFICITY": 68,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 43,
+  "band": "WEAK",
+  "formula": "I Tried It"
+ },
+ {
+  "hook": "You are writing captions wrong, and it is not your fault. Instagram hides everything after line one.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 96,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 43,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "Your top nine grid crops change the second you post a reel. Fix the covers first.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 96,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 43,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "You do not need a niche. You need one person you can name.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 100,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 43,
+  "band": "WEAK",
+  "formula": "The Warning"
+ },
+ {
+  "hook": "Claude plus your YouTube Studio export gives you next week's upload schedule in one prompt.",
+  "properties": {
+   "SPECIFICITY": 46,
+   "ADDRESS": 96,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 43,
+  "band": "WEAK",
+  "formula": "The Stack"
+ },
+ {
+  "hook": "This $12 tool replaced the editor I was paying $2,000 a month.",
+  "properties": {
+   "SPECIFICITY": 84,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 42,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "33% of high school graduates never read another book.",
+  "properties": {
+   "SPECIFICITY": 56,
+   "ADDRESS": 26,
+   "STAKES": 62,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 42,
+  "band": "WEAK",
+  "formula": "The Statistic"
+ },
+ {
+  "hook": "In the next six minutes you will have a working title, thumbnail and script for your next video.",
+  "properties": {
+   "SPECIFICITY": 34,
+   "ADDRESS": 96,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 42,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "This is the analytics page. This video did 40% of the channel's watch time. Here is why.",
+  "properties": {
+   "SPECIFICITY": 63,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 42,
+  "band": "WEAK",
+  "formula": "The Statistic"
+ },
+ {
+  "hook": "YOUR FIRST 30 WILL FLOP",
+  "properties": {
+   "SPECIFICITY": 74,
+   "ADDRESS": 76,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 56
+  },
+  "verdict": 42,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "I spent six years selling agency retainers. Here is what we never put in the proposal.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 48,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 41,
+  "band": "WEAK",
+  "formula": "I Tried It"
+ },
+ {
+  "hook": "Photographers charging under $2,000: this is the pricing page you have been avoiding.",
+  "properties": {
+   "SPECIFICITY": 56,
+   "ADDRESS": 46,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 41,
+  "band": "WEAK",
+  "formula": "The Receipt"
+ },
+ {
+  "hook": "This channel went from 400 subscribers to 200,000 in seven months on one format. I mapped it.",
+  "properties": {
+   "SPECIFICITY": 79,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 41,
+  "band": "WEAK",
+  "formula": "Someone Else's Result"
+ },
+ {
+  "hook": "I pulled the nine most-viewed AI videos of the month and broke down what the titles share.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 48,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 41,
+  "band": "WEAK",
+  "formula": "The Teardown"
+ },
+ {
+  "hook": "If you have under a thousand subscribers, this is the only video you need this week.",
+  "properties": {
+   "SPECIFICITY": 29,
+   "ADDRESS": 96,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 41,
+  "band": "WEAK",
+  "formula": "The Superlative"
+ },
+ {
+  "hook": "I am going to show you the exact prompt, on screen, that wrote this video.",
+  "properties": {
+   "SPECIFICITY": 34,
+   "ADDRESS": 76,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 40,
+  "band": "WEAK",
+  "formula": "The Reveal"
+ },
+ {
+  "hook": "You can write, title, thumbnail and schedule a week of videos without opening a single editor.",
+  "properties": {
+   "SPECIFICITY": 34,
+   "ADDRESS": 76,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 40,
+  "band": "WEAK",
+  "formula": "The Impossible Claim"
+ },
+ {
+  "hook": "Carousels versus reels. I ran both for 90 days and it was not close.",
+  "properties": {
+   "SPECIFICITY": 62,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 39,
+  "band": "WEAK",
+  "formula": "I Tried It"
+ },
+ {
+  "hook": "I let an AI run my channel for 30 days. I did not touch the uploads.",
+  "properties": {
+   "SPECIFICITY": 63,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 39,
+  "band": "WEAK",
+  "formula": "I Tried It"
+ },
+ {
+  "hook": "Seven things I would do differently if I started a channel in 2026.",
+  "properties": {
+   "SPECIFICITY": 63,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 39,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "I wrote the same video three ways. One of them held 62% and the other two did not.",
+  "properties": {
+   "SPECIFICITY": 57,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 39,
+  "band": "WEAK",
+  "formula": "The Statistic"
+ },
+ {
+  "hook": "5 EDITS. #4 IS THE ONE.",
+  "properties": {
+   "SPECIFICITY": 96,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 67
+  },
+  "verdict": 39,
+  "band": "WEAK",
+  "formula": "The List"
+ },
+ {
+  "hook": "Stop posting three times a day. Post twice and reply to every comment for an hour.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 48,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 38,
+  "band": "WEAK",
+  "formula": "The Mistake"
+ },
+ {
+  "hook": "Steal this four-line follow-up. It took me two years and a lot of dead leads.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 48,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 38,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "Every video on this channel starts in the same 12-line file. Here it is.",
+  "properties": {
+   "SPECIFICITY": 52,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 38,
+  "band": "WEAK",
+  "formula": "Someone Else's Result"
+ },
+ {
+  "hook": "\"How do I post consistently without hating it?\" I get this one every week.",
+  "properties": {
+   "SPECIFICITY": 46,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 37,
+  "band": "WEAK",
+  "formula": "The Impossible Claim"
+ },
+ {
+  "hook": "Do not upload another video until you check this one setting.",
+  "properties": {
+   "SPECIFICITY": 29,
+   "ADDRESS": 46,
+   "STAKES": 22,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 37,
+  "band": "WEAK",
+  "formula": "The Question"
+ },
+ {
+  "hook": "33% NEVER READ AGAIN",
+  "properties": {
+   "SPECIFICITY": 74,
+   "ADDRESS": 26,
+   "STAKES": 62,
+   "CURIOSITY": 24,
+   "BREVITY": 45
+  },
+  "verdict": 37,
+  "band": "WEAK",
+  "formula": "The Statistic"
+ },
+ {
+  "hook": "Five caption edits that double saves. Number four is the one nobody does.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 36,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "This was my profile in March. This is it now. I changed the name field, nothing else.",
+  "properties": {
+   "SPECIFICITY": 52,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 36,
+  "band": "WEAK",
+  "formula": "Before and After"
+ },
+ {
+  "hook": "Watch what happens when I paste a competitor's caption into this.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 36,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "The fastest way to get confident is to build evidence you cannot argue with.",
+  "properties": {
+   "SPECIFICITY": 34,
+   "ADDRESS": 46,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 36,
+  "band": "WEAK",
+  "formula": "The Superlative"
+ },
+ {
+  "hook": "The old description format stops mattering this month. Here is what replaces it.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 36,
+  "band": "WEAK",
+  "formula": "The Deadline"
+ },
+ {
+  "hook": "5 HOURS -> 20 MIN",
+  "properties": {
+   "SPECIFICITY": 90,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 45
+  },
+  "verdict": 36,
+  "band": "WEAK",
+  "formula": "The List"
+ },
+ {
+  "hook": "YOU DON'T NEED A NICHE",
+  "properties": {
+   "SPECIFICITY": 52,
+   "ADDRESS": 76,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 56
+  },
+  "verdict": 36,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "1M SUBS IN ONE MONTH",
+  "properties": {
+   "SPECIFICITY": 74,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 56
+  },
+  "verdict": 36,
+  "band": "WEAK",
+  "formula": "Someone Else's Result"
+ },
+ {
+  "hook": "\"I don't want to be on camera.\" Fine. Here is the faceless version that still sells.",
+  "properties": {
+   "SPECIFICITY": 46,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 35,
+  "band": "WEAK",
+  "formula": "The Reveal"
+ },
+ {
+  "hook": "This is the new Sony point and shoot, and it fixes the one thing I hated.",
+  "properties": {
+   "SPECIFICITY": 46,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 35,
+  "band": "WEAK",
+  "formula": "The Receipt"
+ },
+ {
+  "hook": "YOUR CAPTIONS ARE CUT",
+  "properties": {
+   "SPECIFICITY": 52,
+   "ADDRESS": 76,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 45
+  },
+  "verdict": 35,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "Proposals used to take me five hours. They take twenty minutes now.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 34,
+  "band": "WEAK",
+  "formula": "Before and After"
+ },
+ {
+  "hook": "...and that is when the client asked for the money back. Three days after approving it.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 34,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "There was one creator who grew a million subscribers in a single month.",
+  "properties": {
+   "SPECIFICITY": 34,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 34,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "Everyone says post daily. I posted once a week for a year and tripled the channel.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 34,
+  "band": "WEAK",
+  "formula": "Contrarian Flip"
+ },
+ {
+  "hook": "This is the fastest way to turn one long video into thirty Shorts.",
+  "properties": {
+   "SPECIFICITY": 35,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 34,
+  "band": "WEAK",
+  "formula": "The Superlative"
+ },
+ {
+  "hook": "This was my thumbnail. This is my thumbnail now. Same video, four times the click-through.",
+  "properties": {
+   "SPECIFICITY": 41,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 34,
+  "band": "WEAK",
+  "formula": "Before and After"
+ },
+ {
+  "hook": "60 DAYS. REAL NUMBERS.",
+  "properties": {
+   "SPECIFICITY": 74,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 45
+  },
+  "verdict": 34,
+  "band": "WEAK",
+  "formula": "The List"
+ },
+ {
+  "hook": "47 FLOPS, THEN THIS",
+  "properties": {
+   "SPECIFICITY": 74,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 45
+  },
+  "verdict": 34,
+  "band": "WEAK",
+  "formula": "The List"
+ },
+ {
+  "hook": "$2,000 -> $12",
+  "properties": {
+   "SPECIFICITY": 78,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 34
+  },
+  "verdict": 33,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "VIEWS BUT NO FOLLOWERS?",
+  "properties": {
+   "SPECIFICITY": 52,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 59,
+   "BREVITY": 45
+  },
+  "verdict": 33,
+  "band": "WEAK",
+  "formula": "The Question"
+ },
+ {
+  "hook": "6 YEARS INSIDE",
+  "properties": {
+   "SPECIFICITY": 68,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 34
+  },
+  "verdict": 32,
+  "band": "WEAK",
+  "formula": "The List"
+ },
+ {
+  "hook": "$18,000 MISTAKE",
+  "properties": {
+   "SPECIFICITY": 62,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 34
+  },
+  "verdict": 31,
+  "band": "WEAK",
+  "formula": "The Statistic"
+ },
+ {
+  "hook": "STOP POSTING DAILY",
+  "properties": {
+   "SPECIFICITY": 46,
+   "ADDRESS": 26,
+   "STAKES": 48,
+   "CURIOSITY": 24,
+   "BREVITY": 34
+  },
+  "verdict": 31,
+  "band": "WEAK",
+  "formula": "The Mistake"
+ },
+ {
+  "hook": "PHOTOGRAPHERS UNDER $2K",
+  "properties": {
+   "SPECIFICITY": 62,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 34
+  },
+  "verdict": 31,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "\"I HATE BEING ON CAMERA\"",
+  "properties": {
+   "SPECIFICITY": 52,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 56
+  },
+  "verdict": 30,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "HE ASKED FOR A REFUND",
+  "properties": {
+   "SPECIFICITY": 52,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 56
+  },
+  "verdict": 30,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "NICE GUYS FINISH FIRST",
+  "properties": {
+   "SPECIFICITY": 47,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 45
+  },
+  "verdict": 28,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "ASKED EVERY WEEK",
+  "properties": {
+   "SPECIFICITY": 46,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 34
+  },
+  "verdict": 27,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "THE NEW ONE",
+  "properties": {
+   "SPECIFICITY": 46,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 34
+  },
+  "verdict": 27,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "THE FASTEST WAY",
+  "properties": {
+   "SPECIFICITY": 46,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 34
+  },
+  "verdict": 27,
+  "band": "WEAK",
+  "formula": "The Superlative"
+ },
+ {
+  "hook": "Nice guys finish first.",
+  "properties": {
+   "SPECIFICITY": 29,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 45
+  },
+  "verdict": 26,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "STEAL THIS",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 30
+  },
+  "verdict": 26,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "MARCH  /  NOW",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 30
+  },
+  "verdict": 26,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "CAROUSELS vs REELS",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 34
+  },
+  "verdict": 26,
+  "band": "WEAK",
+  "formula": "The Comparison"
+ },
+ {
+  "hook": "WATCH THIS",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 30
+  },
+  "verdict": 26,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ }
+]

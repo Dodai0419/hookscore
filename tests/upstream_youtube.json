@@ -1,0 +1,132 @@
+[
+ {
+  "hook": "You\u2019re losing 40% of your viewers in the first 8 seconds, and here is why.",
+  "properties": {
+   "SPECIFICITY": 78,
+   "ADDRESS": 96,
+   "STAKES": 36,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 57,
+  "band": "WORKABLE",
+  "formula": "The Statistic"
+ },
+ {
+  "hook": "Why do 97% of new channels quit before video 30?",
+  "properties": {
+   "SPECIFICITY": 73,
+   "ADDRESS": 26,
+   "STAKES": 88,
+   "CURIOSITY": 76,
+   "BREVITY": 100
+  },
+  "verdict": 54,
+  "band": "WEAK",
+  "formula": "The Question"
+ },
+ {
+  "hook": "Nobody tells you the real cost of a home gym.",
+  "properties": {
+   "SPECIFICITY": 34,
+   "ADDRESS": 76,
+   "STAKES": 48,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 49,
+  "band": "WEAK",
+  "formula": "Contrarian Flip"
+ },
+ {
+  "hook": "$18,000 is what one missing clause cost me.",
+  "properties": {
+   "SPECIFICITY": 56,
+   "ADDRESS": 26,
+   "STAKES": 62,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 45,
+  "band": "WEAK",
+  "formula": "The Statistic"
+ },
+ {
+  "hook": "Stop paying for software you open twice a year.",
+  "properties": {
+   "SPECIFICITY": 34,
+   "ADDRESS": 76,
+   "STAKES": 48,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 43,
+  "band": "WEAK",
+  "formula": "The Mistake"
+ },
+ {
+  "hook": "I tried every note app for 30 days so you don't have to.",
+  "properties": {
+   "SPECIFICITY": 51,
+   "ADDRESS": 46,
+   "STAKES": 36,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 40,
+  "band": "WEAK",
+  "formula": "I Tried It"
+ },
+ {
+  "hook": "In this video I'm going to show you my morning routine #productivity",
+  "properties": {
+   "SPECIFICITY": 35,
+   "ADDRESS": 46,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 36,
+  "band": "WEAK",
+  "formula": "The Reveal"
+ },
+ {
+  "hook": "This one spreadsheet replaced three tools my team was paying for.",
+  "properties": {
+   "SPECIFICITY": 34,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 34,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "Most advice about cold email is wrong, and the data proves it.",
+  "properties": {
+   "SPECIFICITY": 34,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 34,
+  "band": "WEAK",
+  "formula": "Contrarian Flip"
+ },
+ {
+  "hook": "Hey guys, welcome back to the channel, today we are talking about productivity.",
+  "properties": {
+   "SPECIFICITY": 9,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 25,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ }
+]

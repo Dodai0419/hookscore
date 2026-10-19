@@ -1,0 +1,297 @@
+[
+  {
+    "hook": "$18,000 is what one missing clause cost me.",
+    "checks": {
+      "LENGTH": {
+        "score": 100.0,
+        "detail": "8 words, 43 chars, ~2.9s spoken (want 5-12 words)"
+      },
+      "SPECIFICITY": {
+        "score": 75,
+        "detail": "1 concrete marker(s): $18,000"
+      },
+      "STAKES": {
+        "score": 100.0,
+        "detail": "2 tension marker(s): cost, a price"
+      },
+      "FRONTLOAD": {
+        "score": 100.0,
+        "detail": "payload at word 1"
+      },
+      "ADDRESS": {
+        "score": 70.0,
+        "detail": "first person, no viewer named"
+      }
+    },
+    "weakest": "ADDRESS",
+    "flags": [],
+    "score": 81.4,
+    "verdict": "STRONG"
+  },
+  {
+    "hook": "Stop paying for software you open twice a year.",
+    "checks": {
+      "LENGTH": {
+        "score": 100.0,
+        "detail": "9 words, 47 chars, ~3.3s spoken (want 5-12 words)"
+      },
+      "SPECIFICITY": {
+        "score": 75,
+        "detail": "1 concrete marker(s): twice"
+      },
+      "STAKES": {
+        "score": 70.0,
+        "detail": "1 tension marker(s): stop"
+      },
+      "FRONTLOAD": {
+        "score": 100.0,
+        "detail": "payload at word 1"
+      },
+      "ADDRESS": {
+        "score": 100.0,
+        "detail": "speaks to the viewer"
+      }
+    },
+    "weakest": "STAKES",
+    "flags": [],
+    "score": 81.4,
+    "verdict": "STRONG"
+  },
+  {
+    "hook": "Hey guys, welcome back to the channel, today we are talking about productivity.",
+    "checks": {
+      "LENGTH": {
+        "score": 77,
+        "detail": "13 words, 79 chars, ~4.7s spoken (want 5-12 words)"
+      },
+      "SPECIFICITY": {
+        "score": 15.0,
+        "detail": "0 concrete marker(s) - no number, no name, nothing checkable"
+      },
+      "STAKES": {
+        "score": 20.0,
+        "detail": "0 tension marker(s) - nothing is at stake in this line"
+      },
+      "FRONTLOAD": {
+        "score": 0.0,
+        "detail": "no payload word anywhere in the line; weak opener \"hey\""
+      },
+      "ADDRESS": {
+        "score": 70.0,
+        "detail": "first person, no viewer named"
+      }
+    },
+    "weakest": "FRONTLOAD",
+    "flags": [
+      "Greeting. Nobody came to the feed to be greeted."
+    ],
+    "score": 6.8,
+    "verdict": "WEAK"
+  },
+  {
+    "hook": "I tried every note app for 30 days so you don't have to.",
+    "checks": {
+      "LENGTH": {
+        "score": 89,
+        "detail": "13 words, 56 chars, ~4.7s spoken (want 5-12 words)"
+      },
+      "SPECIFICITY": {
+        "score": 75,
+        "detail": "1 concrete marker(s): 30 days"
+      },
+      "STAKES": {
+        "score": 70.0,
+        "detail": "1 tension marker(s): don't"
+      },
+      "FRONTLOAD": {
+        "score": 70.0,
+        "detail": "payload at word 7, could move forward"
+      },
+      "ADDRESS": {
+        "score": 100.0,
+        "detail": "speaks to the viewer"
+      }
+    },
+    "weakest": "STAKES",
+    "flags": [],
+    "score": 76.5,
+    "verdict": "STRONG"
+  },
+  {
+    "hook": "Why do 97% of new channels quit before video 30?",
+    "checks": {
+      "LENGTH": {
+        "score": 100.0,
+        "detail": "10 words, 48 chars, ~3.6s spoken (want 5-12 words)"
+      },
+      "SPECIFICITY": {
+        "score": 100.0,
+        "detail": "2 concrete marker(s): 97%, 30"
+      },
+      "STAKES": {
+        "score": 100.0,
+        "detail": "2 tension marker(s): before, quit"
+      },
+      "FRONTLOAD": {
+        "score": 100.0,
+        "detail": "payload at word 3"
+      },
+      "ADDRESS": {
+        "score": 35.0,
+        "detail": "third person, nobody in the room"
+      }
+    },
+    "weakest": "ADDRESS",
+    "flags": [],
+    "score": 66.2,
+    "verdict": "OK"
+  },
+  {
+    "hook": "You’re losing 40% of your viewers in the first 8 seconds, and here is why.",
+    "checks": {
+      "LENGTH": {
+        "score": 55,
+        "detail": "15 words, 74 chars, ~5.5s spoken (want 5-12 words)"
+      },
+      "SPECIFICITY": {
+        "score": 100.0,
+        "detail": "2 concrete marker(s): 40%, 8"
+      },
+      "STAKES": {
+        "score": 100.0,
+        "detail": "2 tension marker(s): first, losing"
+      },
+      "FRONTLOAD": {
+        "score": 70.0,
+        "detail": "payload at word 2; weak opener \"yo\""
+      },
+      "ADDRESS": {
+        "score": 100.0,
+        "detail": "speaks to the viewer"
+      }
+    },
+    "weakest": "LENGTH",
+    "flags": [],
+    "score": 73.0,
+    "verdict": "STRONG"
+  },
+  {
+    "hook": "In this video I'm going to show you my morning routine #productivity",
+    "checks": {
+      "LENGTH": {
+        "score": 88.0,
+        "detail": "12 words, 68 chars, ~4.4s spoken (want 5-12 words)"
+      },
+      "SPECIFICITY": {
+        "score": 15.0,
+        "detail": "0 concrete marker(s) - no number, no name, nothing checkable"
+      },
+      "STAKES": {
+        "score": 20.0,
+        "detail": "0 tension marker(s) - nothing is at stake in this line"
+      },
+      "FRONTLOAD": {
+        "score": 0.0,
+        "detail": "no payload word anywhere in the line; weak opener \"in this\""
+      },
+      "ADDRESS": {
+        "score": 100.0,
+        "detail": "speaks to the viewer"
+      }
+    },
+    "weakest": "FRONTLOAD",
+    "flags": [
+      "Video preamble. Delete it and open on the payoff.",
+      "Hashtag in the hook. Hashtags belong at the bottom of the caption, if anywhere."
+    ],
+    "score": 0.0,
+    "verdict": "WEAK"
+  },
+  {
+    "hook": "Nobody tells you the real cost of a home gym.",
+    "checks": {
+      "LENGTH": {
+        "score": 100.0,
+        "detail": "10 words, 45 chars, ~3.6s spoken (want 5-12 words)"
+      },
+      "SPECIFICITY": {
+        "score": 15.0,
+        "detail": "0 concrete marker(s) - no number, no name, nothing checkable"
+      },
+      "STAKES": {
+        "score": 100.0,
+        "detail": "2 tension marker(s): cost, nobody"
+      },
+      "FRONTLOAD": {
+        "score": 100.0,
+        "detail": "payload at word 1"
+      },
+      "ADDRESS": {
+        "score": 100.0,
+        "detail": "speaks to the viewer"
+      }
+    },
+    "weakest": "SPECIFICITY",
+    "flags": [],
+    "score": 55.8,
+    "verdict": "OK"
+  },
+  {
+    "hook": "This one spreadsheet replaced three tools my team was paying for.",
+    "checks": {
+      "LENGTH": {
+        "score": 88.0,
+        "detail": "11 words, 65 chars, ~4.0s spoken (want 5-12 words)"
+      },
+      "SPECIFICITY": {
+        "score": 75,
+        "detail": "1 concrete marker(s): three"
+      },
+      "STAKES": {
+        "score": 70.0,
+        "detail": "1 tension marker(s): replaced"
+      },
+      "FRONTLOAD": {
+        "score": 100.0,
+        "detail": "payload at word 4"
+      },
+      "ADDRESS": {
+        "score": 70.0,
+        "detail": "first person, no viewer named"
+      }
+    },
+    "weakest": "STAKES",
+    "flags": [],
+    "score": 76.4,
+    "verdict": "STRONG"
+  },
+  {
+    "hook": "Most advice about cold email is wrong, and the data proves it.",
+    "checks": {
+      "LENGTH": {
+        "score": 88.0,
+        "detail": "12 words, 62 chars, ~4.4s spoken (want 5-12 words)"
+      },
+      "SPECIFICITY": {
+        "score": 15.0,
+        "detail": "0 concrete marker(s) - no number, no name, nothing checkable"
+      },
+      "STAKES": {
+        "score": 70.0,
+        "detail": "1 tension marker(s): wrong"
+      },
+      "FRONTLOAD": {
+        "score": 70.0,
+        "detail": "payload at word 7, could move forward"
+      },
+      "ADDRESS": {
+        "score": 35.0,
+        "detail": "third person, nobody in the room"
+      }
+    },
+    "weakest": "SPECIFICITY",
+    "flags": [],
+    "score": 39.4,
+    "verdict": "WEAK"
+  }
+]
